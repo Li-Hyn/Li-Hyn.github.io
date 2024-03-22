@@ -34,9 +34,8 @@ Currently, I am working on research projects mainly about LLMs, especially on th
 - *2022.12*: &nbsp;🎉🎉🎉 One paper got accepted by [AAAI-23](https://ojs.aaai.org/index.php/AAAI/index). 
 
 # 📝 Publications 
-- [Dual Mutual Information Constraints for Discriminative Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26032)
-
-**HongyuLi**, Lefei Zhang, Kehua Su
+- [Dual Mutual Information Constraints for Discriminative Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26032) 
+  **HongyuLi**, Lefei Zhang, Kehua Su
 
 
 # 🎖 Honors and Awards
