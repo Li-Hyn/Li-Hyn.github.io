@@ -21,7 +21,8 @@ redirect_from:
 Hi, I'm a third year postgraduate student from [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes Computer Vision, Machine Learning, Data mining, Natural Language Processing, and LLMs.
 
 I received degree of B.E. (with honors, Hongshen Honors College, 2021) in computer science and technology at [Chongqing University](https://www.cqu.edu.cn/).
-In my master’s study, I am fortunately advised by [Prof. Lefei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=BLKHwNwAAAAJ) from [School of Computer Science](https://cs.whu.edu.cn/), Wuhan University.
+
+In my master’s study, I am fortunately advised by [Prof. Lefei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=BLKHwNwAAAAJ) from [School of Computer Science](https://cs.whu.edu.cn/), Wuhan University. 
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
@@ -33,11 +34,7 @@ Currently, I am working on research projects mainly about LLMs, especially on th
 - *2022.12*: &nbsp;🎉🎉🎉 One paper got accepted by [AAAI-23](https://ojs.aaai.org/index.php/AAAI/index). 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dual Mutual Information Constraints for Discriminative Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26032)
+- [Dual Mutual Information Constraints for Discriminative Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/26032)
 
 **HongyuLi**, Lefei Zhang, Kehua Su
 
