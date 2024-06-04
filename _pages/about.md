@@ -31,6 +31,7 @@ You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 Currently, I am working on research projects mainly about LLMs, especially on the filed of Data-centric study and Catastrophic Forgetting study. Feel free to email me for any form of discussion.
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉🎉 One paper got accepted by [TKDD-24]. 
 - *2022.12*: &nbsp;🎉🎉🎉 One paper got accepted by [AAAI-23](https://ojs.aaai.org/index.php/AAAI/index). 
 
 # 📝 Publications 
