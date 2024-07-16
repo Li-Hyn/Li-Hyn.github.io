@@ -20,7 +20,7 @@ redirect_from:
 
 Hi, I'm a third year postgraduate student from [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes Computer Vision, Machine Learning, Data mining, Natural Language Processing, and LLMs.
 
-I received degree of B.E. (with honors, Hongshen Honors College, 2021) in computer science and technology at [Chongqing University](https://www.cqu.edu.cn/).
+I received degree of B.E. (with honors, Hongshen Honors School, 2021) in computer science and technology at [Chongqing University](https://www.cqu.edu.cn/).
 
 In my master’s study, I am fortunately advised by [Prof. Lefei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=BLKHwNwAAAAJ) from [School of Computer Science](https://cs.whu.edu.cn/), Wuhan University. 
 
@@ -44,5 +44,5 @@ Currently, I am working on research projects mainly about LLMs, especially on th
 
 # 📖 Educations
 - *2021.09 - 2022.04 (now)*, postgraduate student in [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). 
-- *2017.09 - 2021.06*, undergraduate student in [Hongshen Honor College](http://hshc.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/). 
+- *2017.09 - 2021.06*, undergraduate student in [Hongshen Honor School](http://hshc.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/). 
 
