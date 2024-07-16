@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, I'm a third year postgraduate student from [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes Computer Vision, Machine Learning, Data mining, Natural Language Processing, and LLMs.
+Hi, I'm a third year postgraduate student from [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes Machine Learning, Data mining, Natural Language Processing, and LLMs.
 
 I received degree of B.E. (with honors, Hongshen Honors School, 2021) in computer science and technology at [Chongqing University](https://www.cqu.edu.cn/).
 
