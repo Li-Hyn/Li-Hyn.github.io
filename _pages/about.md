@@ -22,15 +22,15 @@ Hi, I'm a nlp researcher at Antgroup. My research interest includes LLMs, Natura
 
 I received degree of B.E. (with honors, Hongshen Honors School, 2021) in computer science and technology at [Chongqing University](https://www.cqu.edu.cn/) and I received degree of M.S. in AI at [Wuhan University](https://www.whu.edu.cn/).
 
-In my master’s study, I am fortunately advised by [Prof. Lefei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=BLKHwNwAAAAJ) from [School of Computer Science](https://cs.whu.edu.cn/), Wuhan University. 
+In my master’s study, I am fortunately advised by [Prof. Lefei Zhang](https://scholar.google.com/citations?hl=zh-CN&user=BLKHwNwAAAAJ) from [School of Computer Science](https://cs.whu.edu.cn/), Wuhan University, [Dr. Liang Ding]([https://scholar.google.com/citations?hl=zh-CN&user=BLKHwNwAAAAJ](https://scholar.google.com/citations?user=lFCLvOAAAAAJ&hl=zh-CN&oi=ao)) from University of Sydney, and [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN&oi=ao) from Nanyang Technological University. Deep appreciate!
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+[Email](mailto:hongyuli102799@gmail.com) / [Github](https://github.com/Li-Hyn)
 
-[Email](mailto:lilianelee99@gmail.com) / [Github](https://github.com/Li-Hyn)
-
-Currently, I am working on research projects mainly about LLMs, especially on the filed of Data-centric study and Catastrophic Forgetting study. Feel free to email me for any form of discussion.
+Currently, I am working on research projects mainly about LLMs, especially on the filed of Reinforcement Learning and Catastrophic Forgetting. Feel free to email me for any form of discussion.
 
 # 🔥 News
+- *2024.05*: &nbsp; One paper was submited to Nips-25.
+- *2024.05*: &nbsp;🎉🎉🎉 One paper got accepted by ACL-25 (main).
 - *2024.09*: &nbsp;🎉🎉🎉 One paper got accepted by EMNLP-24 (findings).
 - *2024.06*: &nbsp;🎉🎉🎉 Congratulations on successfully earning my master's degree from WHU University! 
 - *2024.06*: &nbsp;🎉🎉🎉 One paper got accepted by TKDD-24. 
