@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Hongyu Li"
-# description              : "Postgraduate student in WHU."
-# repository               : "RayeRen/acad-homepage.github.io"
+# description              : "A nlp researcher now dedicates to LLMs."
 google_scholar_stats_use_cdn : true
 
 # # google analytics
@@ -23,7 +22,7 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Hongyu Li"
   avatar           : "images/LHY.png"
-  bio              : "A postgraduate student in WHU."
+  bio              : "A nlp researcher now dedicates to LLMs."
   location         : "Wuhan, China"
   # employer         :
   # pubmed           : 
